@@ -5,7 +5,7 @@
 
 
 
-ggnetworx
+ggnetworx <img src="inst/Logo.png" align="right" width="120" />
 ========================================================
 
 ggnetworx provides function to plot phylogenetic networks of class `evonet` from *ape* and split graphs of class `networx` from *phangorn*.
